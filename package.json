@@ -27,5 +27,8 @@
 		"express",
 		"chat"
 	],
-	"license": "MIT"
+	"license": "MIT",
+	"devDependencies": {
+		"tsc": "^2.0.3"
+	}
 }
